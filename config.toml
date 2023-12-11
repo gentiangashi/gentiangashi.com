@@ -1,0 +1,26 @@
+theme = "awesome-identity"
+baseURL = "https://example.com"
+title = "Awesome Identity for Hugo"
+
+
+## Profile Configurations
+[params.profile]
+  portrait = "/images/portrait-default.JPG"
+  firstname = "Gentian"
+  lastname = "Gashi"
+  title = "Software Developer"
+  bio = """Highly skilled Frontend Developer with a strong background in Shopify and eCommerce platforms. Adept at creating user-friendly, visually appealing websites that drive business growth. Looking to leverage my skills in a challenging frontend Shopify developer role.
+  """
+
+## Contacts Configurations
+[params.contacts]
+  email = "gentiang@proton.me"
+  github = "gentiangashi"
+  linkedin = "gentian-gashi"
+  stackoverflow = "7235481"
+
+
+## Footer Configurations
+[params.footer]
+  copyright = "© 2024 Gentian Gashi. [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)."
+  poweredBy = false
